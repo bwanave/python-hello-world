@@ -1,2 +1,2 @@
-# python-hello-world
+# Python Hello World app
 First python program - Hello World !!
